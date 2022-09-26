@@ -16,7 +16,7 @@ Class notes for today can be found [here](https://docs.google.com/document/d/1Wf
 As a preface to thinking about physical competitive games (sports!), we'll watch a documentary on this unusual annual ultramarathon trail race called [The Barkley Marathons](https://en.wikipedia.org/wiki/Barkley_Marathons) (*1 hour & 20 minutes*)
 
 
-### Project 1: SPORT
+### Project 1: New Sport!
 Sneak peek of the project you'll start next week is [here](https://docs.google.com/document/d/1xBRKKRS70iWD_j_rpygbdHEs1WU__wc6tqvp11poOvo/edit?usp=sharing).
 
 ### Homework

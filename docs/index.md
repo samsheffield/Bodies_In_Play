@@ -10,3 +10,7 @@ Here is the class [syllabus](https://bit.ly/3TiPILr)
 - [Week 5 (Sept 26th)](week5.md) New Games!
 - [Week 6 (Oct 3rd)](week6.md) Playtest Sports Prototypes
 - [Week 7 (Oct 10th)](week7.md) Sports Day
+Prototypes
+- Week 8 (Oct 17th) Fall Break
+Prototypes
+- [Week 9 (Oct 24th)](week9.md) How to make an interface out of (almost) anything!

@@ -14,7 +14,8 @@ Fingers crossed all the tech still works as expected!
 
 ### Workshop: Prototyping Kinetic Input
 ![Emily Mills button graphic](/assets/push-button.gif)
-_Graphic by Emily Mills_
+
+_(Graphic by Emily Mills)_
 
 
 Work with a partner to prototype from the following digital actions using cardboard, conductive tape, and the Makey Makey:
@@ -33,9 +34,7 @@ To-do:
 
 
 ### Project 2: CONTROL[LER] Due: Nov 14th
-<span class="fs-3">
-Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn2EXZ_j5HfZXl5ZCSnQCzFahLFt74Y/edit?usp=sharing){: .btn .btn-blue }
-</span>
+Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn2EXZ_j5HfZXl5ZCSnQCzFahLFt74Y/edit?usp=sharing)
 
 ### Homework
 

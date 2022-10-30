@@ -1,4 +1,4 @@
-## 10/03: Hi!
+## 10/10: Playtesting projects
 
 ### Today
 

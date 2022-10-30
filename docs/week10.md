@@ -1,4 +1,4 @@
-## 10/24: Welcome back!
+## 10/31: Happy Halloween!
 
 ### Today
 
@@ -33,8 +33,9 @@ To-do:
 
 
 ### Project 2: CONTROL[LER] Due: Nov 14th
-
-Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn2EXZ_j5HfZXl5ZCSnQCzFahLFt74Y/edit?usp=sharing){: .btn }
+<span class="fs-3">
+Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn2EXZ_j5HfZXl5ZCSnQCzFahLFt74Y/edit?usp=sharing){: .btn .btn-blue }
+</span>
 
 ### Homework
 

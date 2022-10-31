@@ -39,5 +39,5 @@ Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn
 ### Homework
 
 #### Work on your CONTROL[LER] prototype
-Begin developing your prototype. Prototypes will need to be playable after lunch next week. There will be a little time in the first half of class to get things together.
+Begin developing your prototype. Be prepared to show progress next week.
 

@@ -27,7 +27,7 @@ To-do:
 - At least 1 needs to involve an action not done with your hand or finger.
 - Create some sort of simple digital output to respond to your input– _Play a sound, move a shape, change a color, show some text, etc._
 - Email me documentation of your prototypes– photo of each being used and short video clip.
-- Groups will share around 1pm.
+- Groups will share around 1:30pm.
 
 
 ### Project 2: CONTROL[LER] Due: Nov 14th

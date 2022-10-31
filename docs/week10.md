@@ -9,9 +9,6 @@
 ### Check out your cardboard prototypes
 Demo your prototype for the class! How does it work? Can we try it out?
 
-### Play JS Joust
-Fingers crossed all the tech still works as expected!
-
 ### Workshop: Prototyping Kinetic Input
 ![Emily Mills button graphic](/assets/push-button.gif)
 
@@ -26,7 +23,7 @@ _*Most buttons are momentary because they have a spring which disconnects the co
 
 To-do:
 - Work with a partner (or 2 if the numbers are weird)
-- Pick 3 from the list. _Can't decide? I'll pick!_
+- Pick 2 from the list. _Can't decide? I'll pick!_
 - At least 1 needs to involve an action not done with your hand or finger.
 - Create some sort of simple digital output to respond to your input– _Play a sound, move a shape, change a color, show some text, etc._
 - Email me documentation of your prototypes– photo of each being used and short video clip.

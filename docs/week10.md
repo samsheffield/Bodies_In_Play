@@ -19,7 +19,7 @@ _(Graphic by Emily Mills)_
 
 
 Work with a partner to prototype from the following digital actions using cardboard, conductive tape, and the Makey Makey:
-- Push, Pull, Turn, Shake, Momentary Push*, Momentary Pull*
+- Push, Pull, Turn, Shake, Momentary Push* , Momentary Pull*
 
 
 _*Most buttons are momentary because they have a spring which disconnects the conductive parts of the circuit. How can you create a spring-like effect?_

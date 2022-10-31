@@ -1,4 +1,4 @@
-## 09/12: Welcome... back!
+## 09/12: Reflective Game Design, Playing Well Together
 
 ### Today
 

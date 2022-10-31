@@ -1,4 +1,4 @@
-## 10/03: Hi!
+## 10/03: Project 1 Check-ins
 
 ### Today
 

@@ -1,4 +1,4 @@
-## 08/29: Welcome!
+## 08/29: Welcome! Class Intro
 
 ### Today
 

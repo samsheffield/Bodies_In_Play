@@ -1,4 +1,4 @@
-## 10/24: Welcome back!
+## 10/24: Buttons, Cardboard Controllers, & Makey Makey
 
 ### Today
 

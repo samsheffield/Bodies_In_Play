@@ -1,4 +1,4 @@
-## 10/31: Happy Halloween!
+## 10/31: Kinetic Input Prototyping
 
 ### Today
 

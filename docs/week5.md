@@ -1,4 +1,4 @@
-## 09/26: Hi!
+## 09/26: New Games & New Sports
 
 ### Today
 

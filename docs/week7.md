@@ -1,4 +1,4 @@
-## 10/10: Playtesting projects
+## 10/10: Project 1 Playtesting
 
 ### Today
 

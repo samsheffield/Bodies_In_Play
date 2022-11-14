@@ -16,3 +16,4 @@ Prototypes
 - [Week 9 (Oct 24th)](week9.md) How to make an interface out of (almost) anything!
 - [Week 10 (Oct 31st)](week10.md) Prototyping kinetic input 
 - [Week 11 (Nov 7th)](week11.md) Project 2 Work Session 
+- [Week 12 (Nov 14th)](week12.md) CONTROL[LER] Playtesting 

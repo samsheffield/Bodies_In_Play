@@ -1,4 +1,4 @@
-## 11/07: Project 2 Playtesting
+## 11/14: Project 2 Playtesting
 
 ### Project 2: CONTROL[LER] 
 Project description is [here](https://docs.google.com/document/d/1S1onPh4m1GY4Tn2EXZ_j5HfZXl5ZCSnQCzFahLFt74Y/edit?usp=sharing)

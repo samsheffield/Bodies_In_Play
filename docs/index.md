@@ -18,4 +18,6 @@ Prototypes
 - [Week 11 (Nov 7th)](week11.md) Project 2 Work Session 
 - [Week 12 (Nov 14th)](week12.md) CONTROL[LER] Playtesting 
 - [Week 13 (Nov 21st)](week13.md) Playing for others. Electronic components.
-- [Week 14 (Nov 28th)](week14.md) Soft circuits workshop.
+- [Week 14 (Nov 28th)](week14.md) Soft circuits workshop
+- Week 15 (Dec 5th)  Project 2 Work Session. Class visit.
+- [Week 16 (Dec 12th)](week16.md) Playable Bodies Playtesting 
